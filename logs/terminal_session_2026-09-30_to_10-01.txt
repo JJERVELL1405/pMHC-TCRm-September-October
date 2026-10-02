@@ -1,0 +1,1 @@
+pbpaste > logs/terminal_session_2026-09-30_to_10-01.txt
