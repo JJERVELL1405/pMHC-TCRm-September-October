@@ -10,3 +10,6 @@ prep.log
 
 .DS_Store
 __pycache__/
+
+# Local pointer so project notes load automatically; real notes are NOTES.md
+CLAUDE.md
